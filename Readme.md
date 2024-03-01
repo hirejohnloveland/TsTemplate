@@ -1,3 +1,5 @@
+// General note for class in setting up template
+
 ts files in scr folders by adding the following to tsconfig.json after the Compiler options
 "include": ["src/**/*"]
 
